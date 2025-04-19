@@ -250,5 +250,80 @@
             "storage": "5 GB مساحة خالية"
         },
         "similar": [5, 4]
+    },
+    {
+        "id": 11,
+        "title": "Age of History II",
+        "category": "strategy",
+        "descriptionFile": "ageofhistory2.txt",
+        "poster": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/603850/header.jpg?t=1698765035",
+        "cover": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/603850/header.jpg?t=1698765035",
+        "screenshots": [
+            "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/603850/ss_054aeeb14759b26a00bb27f596cb1db427d16ccf.1920x1080.jpg?t=1733070399",
+            "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/603850/ss_c5f4827680b5322dcc80b75027e65eb4e4c6b1ba.1920x1080.jpg?t=1733070399",
+            "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/603850/ss_529514134dbe93a6405e32d8b908700b4cdbbb73.1920x1080.jpg?t=1733070399"
+        ],
+        "downloadLink": "https://drive.usercontent.google.com/download?id=1D7JYidDv_HsfM25auOxiv1yXV8_y-5hT&export=download&authuser=0",
+        "size": "500 MB",
+        "downloads": 50000,
+        "date": "2018-11-21",
+        "requirements": {
+            "os": "Windows 7 / 8 / 10",
+            "processor": "Intel Core 2 Duo 1.8 GHz or equivalent",
+            "memory": "2 GB RAM",
+            "graphics": "Integrated Graphics",
+            "storage": "1 GB مساحة خالية"
+        },
+        "similar": [4, 5]
+    },
+    {
+        "id": 12,
+        "title": "Bully: Scholarship Edition",
+        "category": "action-adventure",
+        "descriptionFile": "bully.txt",
+        "poster": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/12200/header.jpg?t=1660830172",
+        "cover": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/12200/header.jpg?t=1660830172",
+        "screenshots": [
+            "https://i.ytimg.com/vi/P4rOHikrEYw/maxresdefault.jpg",
+            "https://assets.ign.com/thumbs/2008/10/17/bully_101708_fight_tutorial-20.jpg",
+            "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/12200/0000006056.1920x1080.jpg?t=1741118085"
+        ],
+        "downloadLink": "https://up.downloadcomputergames.net/2021/07/bully-scholarship-edition/Bully-Scholarship-Edition.zip",
+        "size": "3.5 GB",
+        "downloads": 75000,
+        "date": "2008-10-21",
+        "requirements": {
+            "os": "Windows XP / Vista / 7 / 8 / 10",
+            "processor": "Intel Pentium 4 3.0 GHz / AMD Athlon 3000+",
+            "memory": "1 GB RAM",
+            "graphics": "NVIDIA GeForce 6800 / ATI Radeon X1300",
+            "storage": "4.7 GB مساحة خالية"
+        },
+        "similar": [5, 10]
+    },
+    {
+        "id": 13,
+        "title": "NFS: Most Wanted 2012",
+        "category": "racing",
+        "descriptionFile": "nfsmostwanted2012.txt",
+        "poster": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1262560/header.jpg?t=1702992231",
+        "cover": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1262560/header.jpg?t=1702992231",
+        "screenshots": [
+            "https://i.ytimg.com/vi/yDJqhPgrIZE/maxresdefault.jpg",
+            "https://i.ytimg.com/vi/Ue5uQcFN0Z8/maxresdefault.jpg",
+            "https://i.ytimg.com/vi/RTk_0_DOwpQ/maxresdefault.jpg"
+        ],
+        "downloadLink": "https://up.downloadcomputergames.net/2021/04/need-for-speed/Need-for-Speed-Most-Wanted-2012.zip",
+        "size": "5.3 GB",
+        "downloads": 65000,
+        "date": "2012-10-30",
+        "requirements": {
+            "os": "Windows Vista / 7 / 8 / 10 (64-bit)",
+            "processor": "Intel Core 2 Duo 2.4 GHz / AMD Athlon X2 2.7 GHz",
+            "memory": "2 GB RAM",
+            "graphics": "NVIDIA GeForce 8800 GT / ATI Radeon 3870",
+            "storage": "20 GB مساحة خالية"
+        },
+        "similar": [7, 9]
     }
 ]
